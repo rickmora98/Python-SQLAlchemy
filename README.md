@@ -4,13 +4,12 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 
 #### Files/Folders:
 
-> *"climate.ipynt"* (jupyter notebook for part 1 of this assignment) <br>
-> *"app.py"* (Flask app for part 2 of this assignment) <br>
-> 
-> **"Resources"** (data folder) <br>
->	- *"hawaii.sqlite"* (database file needed by *"climate.ipynt"* and *"app.py"*) <br>
-> 	- *"hawaii_measurements.csv"* (optional data file if needed) <br>
-> 	- *"hawaii_stations.csv"* (optional data file if needed) <br>
++ *"climate.ipynt"* (jupyter notebook for part 1 of this assignment) <br>
++ *"app.py"* (Flask app for part 2 of this assignment) <br>
++ **"Resources"** (data folder) <br>
+	- *"hawaii.sqlite"* (database file needed by *"climate.ipynt"* and *"app.py"*) <br>
+	- *"hawaii_measurements.csv"* (optional data file if needed) <br>
+	- *"hawaii_stations.csv"* (optional data file if needed) <br>
 
 	
 #### Note: <br>
