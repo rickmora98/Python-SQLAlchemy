@@ -1,4 +1,4 @@
-# Bootcamp assignment week 10
+# Flask app for displaying weather data contained in SQL database: hawaii.sqlite
 
 # Code by: Ricardo G. Mora, Jr.  11/19/2021
 
