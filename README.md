@@ -1,6 +1,6 @@
 # sqlalchemy-challenge 
 
-This repository contains my solutions to Data Analytics Bootcamp Homework Assignment for week #10.
+
 
 #### Files/Folders:
 
